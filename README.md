@@ -102,7 +102,7 @@
 
 ## Author
 
-- Steven Victor
+- Alexander Ikeh
 - medium: medium.com/@AlexSwiss  
-- twitter: twitter.com/stevensunflash  
-- linkedin: linkedin.com/in/stevenchikodi
+- twitter: twitter.com/codedfingers  
+- linkedin: linkedin.com/in/alexowi
